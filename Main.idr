@@ -1,5 +1,5 @@
 
-import Data.Markdorg
+import Text.Markdorg
 
 main : IO ()
 main = putStrLn "Hello, world!"
